@@ -18,6 +18,6 @@
 <div id="heythere" align="center">
   <h1>
   Добрейший вечерочек
-  <img src="https://media.giphy.com/media/11Wf3llSqbkgko/giphy.gif" width="45px"/>
+  <img src="https://media.giphy.com/media/11Wf3llSqbkgko/giphy.gif" width="40px"/>
 </h1>
 </div>
