@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/XtydbjSSwkC7K2zBTH/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/XtydbjSSwkC7K2zBTH/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
@@ -14,7 +14,7 @@
 </div>
 <div id="heythere" align="center">
   <h1>
-  Приветик
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Добрейший вечерочек
+  <img src="https://media.giphy.com/media/11Wf3llSqbkgko/giphy.gif" width="50px"/>
 </h1>
 </div>
