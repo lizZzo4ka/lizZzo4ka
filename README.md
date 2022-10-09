@@ -3,11 +3,11 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="your-telegram-URL">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="your-vkonakte-URL">
+    <img src="https://img.shields.io/badge/VKontakte-gray?style=for-the-badge&logo=VK&logoColor=blue" alt="VKontakte Badge"/>
   </a>
 </div>
 
@@ -18,6 +18,6 @@
 <div id="heythere" align="center">
   <h1>
   Добрейший вечерочек
-  <img src="https://media.giphy.com/media/11Wf3llSqbkgko/giphy.gif" width="50px"/>
+  <img src="https://media.giphy.com/media/11Wf3llSqbkgko/giphy.gif" width="45px"/>
 </h1>
 </div>
