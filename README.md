@@ -24,3 +24,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/yWAJmLu7un7BV2I46i/giphy.gif" width="600" height="300"/>
 </div>
+╰(▔∀▔)╯ :feelsgood: About Me :
+I am a Full Stack Developer from Moscow. 
+<div align="center">
+<img src="https://media.giphy.com/media/TJ7hXERD1NmrS/giphy.gif" width="200">
