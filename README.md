@@ -27,11 +27,11 @@
 ╰(▔∀▔)╯ :feelsgood: About Me :
 I am a Full Stack Developer from Moscow. 
 <div align="center">
-<img src="https://media.giphy.com/media/TJ7hXERD1NmrS/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/TJ7hXERD1NmrS/giphy.gif" width="250">
 </div>
   
-- :one: :one: : :one: :one: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- ☠️ еще круче чел
 
-- :seedling: Exploring Technical Content Writing.
+- :place_of_worship: еще круче чел
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :carpentry_saw: еще круче чел
