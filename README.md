@@ -44,5 +44,8 @@ I am a Full Stack Developer from Moscow.
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
-:fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lizZzo4ka&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
+### :fire: My Stats :
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lizZzo4ka&theme=blux&border_radius=4.8)]
