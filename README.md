@@ -47,5 +47,5 @@ I am a Full Stack Developer from Moscow.
 
 ---
 
-### :fire: My Stats :
+### :gem: My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lizZzo4ka&theme=blux&border_radius=4.8)]
